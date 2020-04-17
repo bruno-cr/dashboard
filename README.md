@@ -1,5 +1,6 @@
 # Dashboard
 Exemplo de dashboard com Bootstrap<br>
+Tabela como na documentação do Bootstrap.<br>
 Baseado no artigo do Duomly no dev.to: https://dev.to/duomly/how-to-create-a-simple-dashboard-using-bootstrap-in-5-minutes-2p4o<br>
 
 
